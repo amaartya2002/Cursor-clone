@@ -44,7 +44,6 @@ This project uses a dark, minimal UI color system.
 
 - Primary Text: `#f5f5f5`
 - Secondary Text: `#d1d5db`
-- Muted Text: `#9ca3af`, `#737373`
 
 **CTA**
 
