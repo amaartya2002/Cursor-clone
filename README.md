@@ -33,7 +33,7 @@ The goal of this assignment was to practice **layout, spacing, typography, and v
 
 ## Project Color Palette
 
-This project uses a dark, minimal UI color system designed for clarity, contrast, and consistency across the entire layout.
+This project uses a dark, minimal UI color system.
 
 **Backgrounds**
 
@@ -48,7 +48,7 @@ This project uses a dark, minimal UI color system designed for clarity, contrast
 
 **CTA**
 
-- Primary Accent / CTA: `#ef4444`
+- CTA: `#ef4444`
 - Accent Hover / Emphasis: `#dc2626`
 
 **Borders & UI Elements**
